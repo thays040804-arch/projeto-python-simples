@@ -3,6 +3,10 @@
 Projeto simples em Python de uma lista de tarefas via terminal.  
 Permite adicionar, listar, concluir e remover tarefas enquanto o programa estiver rodando.
 
+
+
+
+
 ## Funcionalidades
 
 -  Adicionar tarefa
@@ -10,10 +14,13 @@ Permite adicionar, listar, concluir e remover tarefas enquanto o programa estive
 -  Marcar tarefa como concluída
 -  Remover tarefa
 
+
+
+
 ## Como executar
 
-1. Baixe o arquivo `todo.py`
-2. No terminal, execute:
+Baixe o arquivo `todo.py`
+No terminal, execute:
 
 ```bash
 python todo.py
@@ -27,6 +34,9 @@ git push origin minha-nova-funcionalidade
 
 
 Abra um Pull Request.
+
+
+
 
 ## Como contribuir
 
@@ -47,11 +57,12 @@ git push origin minha-nova-funcionalidade
 ## Abra um Pull Request.
 
 
----
 
 ### 6. Licença
 
 ```markdown
+
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
